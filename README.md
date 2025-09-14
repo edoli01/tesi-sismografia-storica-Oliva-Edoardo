@@ -50,5 +50,5 @@ Questa tesi è pensata come un progetto **aperto e condiviso**:
 
 ---
 
-*Studene: Edoardo – Università degli Studi della Repubblica di San MArino*  
+*Studente: Oliva Edoardo – Università degli Studi della Repubblica di San Marino*  
 *Anno Accademico 2025/26*  
