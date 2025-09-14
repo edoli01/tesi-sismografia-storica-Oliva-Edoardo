@@ -5,7 +5,7 @@ Il progetto esplora il tema della **memoria dei terremoti** attraverso la sismog
 
 ---
 
-## 🎯 Obiettivi
+## Obiettivi
 - Analizzare come i terremoti siano stati raccontati, registrati e tramandati nei secoli.  
 - Esplorare l’importanza degli archivi digitali nella conservazione della memoria sismica.  
 - Sperimentare soluzioni di design che rendano più accessibili dati, testi e immagini legati alla sismologia storica.  
@@ -23,3 +23,32 @@ Il progetto esplora il tema della **memoria dei terremoti** attraverso la sismog
 README.md → presentazione e overview del progetto  
 bibliografia.md → elenco fonti, articoli e testi utilizzati  
 to-do.md → lista attività, idee e note  
+
+---
+
+## Metodologia
+1. **Raccolta fonti**: testi storici, cataloghi sismici, documenti d’archivio.  
+2. **Analisi**: comparazione tra approcci analogici e digitali nella conservazione della memoria.  
+3. **Casi studio**: esplorazione di archivi digitali e progetti interattivi già esistenti.  
+4. **Design**: sviluppo di un prototipo/interfaccia che renda i dati accessibili e navigabili.  
+
+---
+
+## Collaborazione
+Questa tesi è pensata come un progetto **aperto e condiviso**:  
+- Il relatore e i collaboratori possono seguire lo sviluppo direttamente da qui.  
+- Ogni contributo, revisione o suggerimento può essere segnalato tramite **Issues**.  
+- Le versioni dei testi e dei materiali sono tracciate con commit chiari e ordinati.
+- Anche studiosi ed esperti del settore potranno visionare il lavoro, offrendo osservazioni e contributi utili. 
+
+---
+
+## Note
+- Tutti i materiali raccolti hanno fini di ricerca accademica.  
+- I dati provenienti da enti scientifici (es. INGV) saranno citati e utilizzati nel rispetto delle licenze.  
+- Alcuni documenti potrebbero essere protetti da copyright: in tal caso saranno riportati solo riferimenti bibliografici e link.  
+
+---
+
+*Studene: Edoardo – Università degli Studi della Repubblica di San MArino*  
+*Anno Accademico 2025/26*  
