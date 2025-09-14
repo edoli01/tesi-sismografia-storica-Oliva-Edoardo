@@ -1,9 +1,9 @@
 ## Articoli e libri
 1. [**Wolfgang Ernst** – *Digital Memory and the Archive*  
-   University of Minnesota Press, 2013.  ](Wolfgang-Ernst_2013_Digital-Memory-and-the-Archive)
+   University of Minnesota Press, 2013.  ](Wolfgang-Ernst_2013_Digital-Memory-and-the-Archive.pdf)
    → Riflessione teorica sulla memoria nell’era digitale e sugli archivi come dispositivi culturali.
 
-3. [**Emanuela Guidoboni** – *La memoria dei terremoti*](Guidoboni_2021_La-memoria-dei-terremoti)    
+3. [**Emanuela Guidoboni** – *La memoria dei terremoti*](Guidoboni_2021_La-memoria-dei-terremoti.pdf)    
    → Studio fondamentale sulla trasmissione storica degli eventi sismici e sull’uso delle fonti per ricostruire i terremoti.
 
 4. [**CTFI Collections**](https://cfti.ingv.it/collections/index.php/it/)  
