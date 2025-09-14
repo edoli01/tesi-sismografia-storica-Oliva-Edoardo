@@ -15,14 +15,12 @@ Il progetto esplora il tema della **memoria dei terremoti** attraverso la sismog
 
 ## 📂 Struttura della repository
 
-📂 dati/ → dataset, tabelle, documenti storici e scientifici  
-📂 casi-studio/ → analisi di archivi digitali e progetti interattivi  
-📂 testi/ → bozze di capitoli, abstract, indici e scritti  
-📂 immagini/ → fotografie, mappe, diagrammi  
-📂 codice/ → prototipi interattivi, visualizzazioni e script  
-README.md → presentazione e overview del progetto  
-bibliografia.md → elenco fonti, articoli e testi utilizzati  
-to-do.md → lista attività, idee e note  
+- [dati](dati/) → dataset, tabelle, documenti storici e scientifici
+- [casi-studio](casi-studio/) → analisi di archivi digitali e progetti interattivi
+- [testi](testi/) → bozze, abstract, indici
+- [immagini](immagini/) → fotografie, mappe, diagrammi
+- [codice](codice/) → prototipi e script
+
 
 ---
 
