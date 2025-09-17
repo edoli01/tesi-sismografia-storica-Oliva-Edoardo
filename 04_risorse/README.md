@@ -1,4 +1,4 @@
-[**CFTI5Med**](https://storing.ingv.it/cfti/cfti5/#) 
+[**CFTI5Med**](https://storing.ingv.it/cfti/cfti5/#)  
 Catalogue of strong earthquakes in Italy and in the Mediterranean area.
 → Catalogo di nuova generazione e di tipo analitico, risultato di oltre quarant’anni di ricerche di sismologia storica condotte in Italia e nell’area mediterranea. È definito “nuova generazione” perché presenta esclusivamente i risultati di ricerche originali, sviluppate secondo una rinnovata sensibilità storiografica e un approccio metodologico che garantisce trasparenza e oggettività nelle interpretazioni sismologiche. È detto anche “analitico” perché, per la maggior parte dei terremoti analizzati, fornisce descrizioni dettagliate degli effetti in ciascun luogo colpito, insieme a valutazioni sull’impatto sociale ed economico complessivo. Inoltre, per ogni sequenza sismica investigata, include una bibliografia completa delle testimonianze, siano esse di studiosi o di osservatori occasionali; molte di queste fonti sono accessibili online, in forma di documento originale o di trascrizione.
 
