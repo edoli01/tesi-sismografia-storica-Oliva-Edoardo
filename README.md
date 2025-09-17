@@ -32,21 +32,10 @@ Il progetto esplora il tema della **memoria dei terremoti** attraverso la sismog
 
 ---
 
-## Collaborazione
-Questa tesi è pensata come un progetto **aperto e condiviso**:  
-- Il relatore e i collaboratori possono seguire lo sviluppo direttamente da qui.  
-- Ogni contributo, revisione o suggerimento può essere segnalato tramite **Issues**.  
-- Le versioni dei testi e dei materiali sono tracciate con commit chiari e ordinati.
-- Anche studiosi ed esperti del settore potranno visionare il lavoro, offrendo osservazioni e contributi utili. 
+Questa tesi nasce con l’idea di essere un progetto aperto e condiviso. Tutto il percorso di lavoro è raccolto qui, così che il relatore e i collaboratori possano seguirne lo sviluppo passo dopo passo. Eventuali contributi, revisioni o suggerimenti possono essere segnalati direttamente attraverso le Issues della repository, mentre i commit permettono di tenere traccia in modo chiaro delle diverse versioni dei testi e dei materiali. Questo spazio rimane accessibile anche a studiosi ed esperti del settore, che potranno visionare il lavoro e, se lo desiderano, offrire osservazioni e spunti utili a migliorare la ricerca. 
 
 ---
 
-## Note
-- Tutti i materiali raccolti hanno fini di ricerca accademica.  
-- I dati provenienti da enti scientifici (es. INGV) saranno citati e utilizzati nel rispetto delle licenze.  
-- Alcuni documenti potrebbero essere protetti da copyright: in tal caso saranno riportati solo riferimenti bibliografici e link.  
 
----
-
-*Studente: Oliva Edoardo – Università degli Studi della Repubblica di San Marino*  
-*Anno Accademico 2025/26*  
+Studente: Oliva Edoardo – Università degli Studi della Repubblica di San Marino  
+Anno Accademico 2025/26
