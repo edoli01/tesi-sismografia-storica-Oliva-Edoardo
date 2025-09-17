@@ -13,7 +13,7 @@
     - dalla ricerca sui metodi da utlizzare per tali analisi
     - dalla sintesi tematica dei dati offerti dal CFTI stesso.
 
-5. [**CTFI Sources**]([https://cfti.ingv.it/visual/](https://cfti.ingv.it/sources/))  
+5. [**CTFI Sources**](https://cfti.ingv.it/sources/)  
 Thematic Digital Library.
 → Biblioteca digitale tematica che permette di navigare tra i 34.218 testi che costituiscono il nucleo informativo del CFTI5Med. Attraverso funzioni di ricerca e ordinamento, il sistema garantisce un’interoperabilità totale con il database CFTI. Ogni record è collegato alle date dei terremoti o delle sequenze sismiche a cui si riferisce la fonte; cliccando sulla data è possibile accedere direttamente alla scheda evento sul sito del CFTI5Med. Quando disponibili, trascrizioni e scansioni dei testi originali sono consultabili tramite link attivi, che rimandano a tutte le informazioni archiviate per quella specifica sequenza.
       
