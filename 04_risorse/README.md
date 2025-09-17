@@ -1,0 +1,3 @@
+[**CTFI Visual**](https://cfti.ingv.it/visual/)  
+Atlas of visual sources on Italian historical earthquakes.<br>
+→ Frutto di circa quarant’anni di indagini sui terremoti storici italiani, raccoglie numerose fonti visive (incisioni, dipinti, fotografie, documenti filmici, ecc.) utili a studiosi di diverse discipline per integrare le informazioni relative alla stima dei danni, alla risposta delle istituzioni e alle osservazioni scientifiche. L’atlante consente di esplorare liberamente tutte le fonti visive non soggette a copyright, mettendole in relazione con le informazioni descrittive contestuali provenienti dal CFTI.
