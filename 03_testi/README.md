@@ -31,30 +31,20 @@ Questa tesi nasce dall’idea di raccontare la memoria dei terremoti attraverso 
 4.2_Casi studio<br>
 4.3_Il ruolo del design nell’accessibilità e nella narrazione della memoria<br>
 
-Capitolo 5 – Metodologia del progetto
+**5_Metodologia del progetto**<br>
+5.1_Analisi delle fonti e estrapolazione dei contenuti<br>
+5.2_Scelte progettuali: criteri di selezione e narrazione<br>
+5.3_Strumenti digitali utilizzati (piattaforma interattiva, mappe, visualizzazioni)<br>
 
-Analisi delle fonti e estrapolazione dei contenuti
+**6_Progetto**<br>
+6.1_Concept<br>
+6.2_Architettura dell’archivio<br>
+6.3_Interfaccia e modalità di esplorazione (mappa, timeline...)<br>
+6.4_Esperienza utente e modalità di collaborazione<br>
 
-Scelte progettuali: criteri di selezione e narrazione
-
-Strumenti digitali utilizzati (piattaforma interattiva, mappe, visualizzazioni)
-
-Capitolo 6 – Progetto sperimentale
-
-Concept del prototipo
-
-Architettura dell’archivio digitale
-
-Interfaccia e modalità di esplorazione (mappa, timeline, schede evento)
-
-Esperienza utente: scenari d’uso e pubblici di riferimento
-
-Conclusioni
-
-Sintesi dei risultati
-
-Limiti del lavoro e sviluppi futuri
-
-Contributo della tesi alla riflessione su memoria, archivi e cultura sismica
+**7_Conclusioni**<br>
+7.1_Risultati<br>
+7.2_Appunti positivi e negativi<br>
+7.3_Considerazioni finali<br>
 
 Bibliografia
