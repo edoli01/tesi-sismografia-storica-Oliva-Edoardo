@@ -10,7 +10,7 @@ Frutto di circa quarant’anni di indagini sui terremoti storici italiani, racco
 Thematic Digital Library.  
 Biblioteca digitale tematica che permette di navigare tra i 34.218 testi che costituiscono il nucleo informativo del CFTI5Med. Attraverso funzioni di ricerca e ordinamento, il sistema garantisce un’interoperabilità totale con il database CFTI. Ogni record è collegato alle date dei terremoti o delle sequenze sismiche a cui si riferisce la fonte; cliccando sulla data è possibile accedere direttamente alla scheda evento sul sito del CFTI5Med. Quando disponibili, trascrizioni e scansioni dei testi originali sono consultabili tramite link attivi, che rimandano a tutte le informazioni archiviate per quella specifica sequenza.
 
-[**Internte Archive**](https://cfti.ingv.it/sources/)  
+[**Internte Archive**](https://archive.org/)  
 Internet Archive è molto utile perché mi permette di recuperare direttamente le pagine originali delle fonti. Nel catalogo CFTI5Med spesso è indicato il riferimento bibliografico, ma non la scansione del libro o del documento da cui il dato è stato preso. Questo rende difficile capire il contesto. Con Internet Archive posso invece trovare la fonte digitalizzata e affiancarla alla voce più scientifica del CFTI5Med. Così non mi fermo alla citazione, ma mostro anche la pagina reale da cui l’informazione proviene. Esempio:  
 CFTI5Med https://storing.ingv.it/cfti/cfti5/pdf_T/009056-090015_T.pdf  
 Internet Archive https://archive.org/details/p9rerumitalicarums09card/page/86/mode/2up
