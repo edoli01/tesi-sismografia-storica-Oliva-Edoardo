@@ -47,4 +47,11 @@ Questa tesi nasce dall’idea di raccontare la memoria dei terremoti attraverso 
 7.2_Appunti positivi e negativi<br>
 7.3_Considerazioni finali<br>
 
-Bibliografia
+Bibliografia<br><br>
+
+**Suddivisione layer**<br>
+Mostrare i terremoti geolocalizzati con i dati temporali e di magnitudo:<br>
+- Slider periodo temporale<br>
+- Slider valore magnitudo<br>
+- Toggle area geografica (Nord - Centro - Sud)<br>
+- Toggle tipologia fonte (Testi e cronache - Dipinti e incisioni - Resti architettonici - Fotografie - Video)<br>
