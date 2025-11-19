@@ -11,35 +11,40 @@ Il terremoto è spesso raccontato come un numero: una magnitudo, una coordinata,
 ***Bozza Indice***<br>
 <br>
 **0_Introduzione**<br>
-0.1_Contesto e motivazioni della ricerca<br>
-0.2_Obiettivi della tesi<br>
-0.3_Metodologia<br>
 
-**1_La sismografia storica**<br>
-1.1_Definizione e sviluppi della sismografia storica<br>
-1.2_Importanza per la ricerca contemporanea<br>
-1.3_Perché scegliere il territorio italiano<br>
+**1_Fondamenti: soggettività, rappresentazione e misurazione del terremoto**<br>
+1.1_Il terremoto come esperienza soggettiva<br>
+1.2_Rappresentare il terremoto<br>
+1.3_Visualizzare il terremoto<br>
+1.4_Misurare il terremoto<br>
+1.5_Il terremoto nell’era digitale<br>
+1.6_Dalla soggettività ai dati: perché serve un approccio integrato<br>
 
-**2_Fonti e memoria dei terremoti**<br>
-2.1_Le cronache e i testi antichi<br>
-2.2_Dipinti, incisioni e rappresentazioni artistiche dei terremoti<br>
-2.3_Architetture come testimonianza del sisma<br>
-2.4_Il valore della memoria e degli archivi culturali<br>
+**2_Sismologia storica: un sapere costruito sulle tracce e sulle persone**<br>
+2.1_Cos’è la sismologia storica<br>
+2.2_Metodi, fonti e interdisciplinarità<br>
+2.3_Citizen science ante litteram<br>
+2.4_Perché l’Italia è un laboratorio ideale<br>
 
-**3_Dati scientifici e cataloghi storici**<br>
-3.1_Il ruolo dell’INGV e il catalogo CFTI5<br>
-3.2_Metodi di raccolta e classificazione dei dati storici<br>
-3.3_Dialogo tra dati scientifici e fonti narrative<br>
+**3_Fonti e tracce: dove vive la memoria del terremoto**<br>
+3.1_Testi antichi e cronache<br>
+3.2_Iconografie e rappresentazioni artistiche<br>
+3.3_Architetture come testimonianze<br>
+3.4_Il valore culturale del sisma<br>
 
-**4_Archivi digitali e design dell’informazione**<br>
-4.1_La trasformazione degli archivi con le tecnologie digitali<br>
-4.2_Casi studio<br>
-4.3_Il ruolo del design nell’accessibilità e nella narrazione della memoria<br>
+**4_Archivi della memoria sismica**<br>
+4.1_Cos’è un archivio<br>
+4.2_Il catalogo CFTI5Med<br>
+4.3_Limiti dei cataloghi scientifici<br>
+4.4_Fonti digitali e musei visuali<br>
+4.5_Casi studio<br>
 
 **5_Metodologia del progetto**<br>
-5.1_Analisi delle fonti e estrapolazione dei contenuti<br>
-5.2_Scelte progettuali: criteri di selezione e narrazione<br>
-5.3_Strumenti digitali utilizzati (piattaforma interattiva, mappe, visualizzazioni)<br>
+5.1_Obiettivi del progetto<br>
+5.2_Raccolta e selezione delle fonti<br>
+5.3_Integrazione dei dati scientifici e narrativi<br>
+5.4_Criteri di rappresentazione e storytelling visivo<br>
+5.5_Strumenti digitali utilizzati<br>
 
 **6_Progetto**<br>
 6.1_Concept<br>
