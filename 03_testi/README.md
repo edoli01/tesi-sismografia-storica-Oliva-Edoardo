@@ -10,7 +10,7 @@ Il terremoto è spesso raccontato come un numero: una magnitudo, una coordinata,
 <br>
 ***Bozza Indice***<br>
 <br>
-**0_Introduzione**<br>
+**[0_Introduzione](0_Introduzione.md)**<br>
 
 **1_Fondamenti: soggettività, rappresentazione e misurazione del terremoto**<br>
 1.1_Il terremoto come esperienza soggettiva<br>
