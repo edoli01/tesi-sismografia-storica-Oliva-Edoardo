@@ -14,11 +14,10 @@ Il terremoto è spesso raccontato come un numero: una magnitudo, una coordinata,
 
 **1_Fondamenti: soggettività, rappresentazione e misurazione del terremoto**<br>
 1.1_Il terremoto come esperienza soggettiva<br>
-1.2_Rappresentare il terremoto<br>
-1.3_Visualizzare il terremoto<br>
-1.4_Misurare il terremoto<br>
-1.5_Il terremoto nell’era digitale<br>
-1.6_Dalla soggettività ai dati: perché serve un approccio integrato<br>
+1.2_Rappresentare e visualizzare il terremoto<br>
+1.3_Misurare il terremoto<br>
+1.4_Il terremoto nell’era digitale<br>
+1.5_Dalla soggettività ai dati: perché serve un approccio integrato<br>
 
 **2_Sismologia storica: un sapere costruito sulle tracce e sulle persone**<br>
 2.1_Cos’è la sismologia storica<br>
