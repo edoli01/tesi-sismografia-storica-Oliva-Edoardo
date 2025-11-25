@@ -1,4 +1,4 @@
-***Fondamenti: soggettività, rappresentazione e misurazione del terremoto***
+## Fondamenti: soggettività, rappresentazione e misurazione del terremoto
 <br><br>**1.1 Il terremoto come esperienza soggettiva**
 <br><br>Prima di diventare un dato, una curva o una magnitudo, un terremoto è un’esperienza che attraversa i corpi. La scossa appare spesso come un rumore opaco, un oscillare improvviso, un gesto della terra che interrompe la continuità delle attività quotidiane. Ognuno la percepisce in modo diverso: c’è chi sente un boato, chi solo un tremolio, chi non avverte nulla ma ricorda il panico degli altri. Questa variabilità non è un limite: è la materia prima da cui, per secoli, si è costruita la conoscenza dei sismi. 
 <br>Prima degli strumenti, erano le persone a “registrare” i terremoti: cronache, lettere, schizzi, resoconti orali. La sismologia nasce dentro questa coralità frammentaria. Montaigne intuiva già nel XVI secolo che il testimone ideale poteva non essere l’erudito, ma qualcuno capace di osservare senza fraintendere: *“una persona semplice, rozza, ma adatta a portare una testimonianza vera”* ¹. 
