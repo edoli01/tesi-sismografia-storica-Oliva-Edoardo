@@ -69,7 +69,6 @@ Misurare un terremoto non significa ridurlo a un numero: significa riconoscere c
 
 <br><br><br>
 **1.4 Il terremoto nell’era digitale** 
-
 <br><br>L’ingresso nell’era digitale ha trasformato in modo profondo la relazione tra società e terremoti. Dopo secoli in cui il sisma era raccontato, rappresentato e misurato attraverso strumenti lenti, localizzati e spesso frammentari, la rivoluzione informatica introduce una dimensione completamente nuova: la simultaneità. 
 Oggi un terremoto non è più un evento da ricostruire dopo il fatto: è qualcosa che viene visto mentre accade. 
 <br>La rete sismica globale, alimentata da migliaia di sensori distribuiti in tutto il mondo, produce un flusso continuo di dati in tempo reale. Un sisma rilevato in Cile compare su una mappa digitale pochi secondi dopo; un evento in Giappone genera notifiche automatiche sui telefoni, animazioni delle onde sismiche, modelli di magnitudo che si aggiornano ogni due o tre minuti. 
@@ -105,7 +104,7 @@ L’era digitale ci ricorda, paradossalmente, che per comprendere un terremoto b
 
 <br>Il terremoto, in altre parole, non è solo un evento naturale: è un’esperienza, un effetto, un segno, un dato, un ricordo, un’immagine. Ridurlo a una sola di queste dimensioni significa perdere parte della sua complessità. 
 
-<br><br>La sismologia moderna ha mostrato che nessun sistema, da solo, è sufficiente.<br><br>
+<br>La sismologia moderna ha mostrato che nessun sistema, da solo, è sufficiente.<br>
 
 <br>Le isosisme non esistono senza le testimonianze; la magnitudo non spiega i danni; le mappe digitali non colgono ciò che non viene registrato; gli strumenti non vedono ciò che solo le persone vivono. Non si tratta di scegliere tra soggettività e oggettività, ma di riconoscerne la coesistenza. 
 <br>Per questo motivo, negli ultimi anni, è emersa con forza l’idea della integrazione: una pratica che combina dati strumentali, fonti storiche, testimonianze, immagini, modelli digitali e contributi della citizen science. 
