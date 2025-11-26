@@ -12,8 +12,6 @@
 
 **Ferrari, G.** (a cura di). (2014). *Dal cielo alla terra: Italia, meteorologia e sismologia dall’Ottocento a oggi.* Bononia University Press.  
 
-**Rosenberg, D., & Grafton, A.** (2010). *Cartographies of time: A history of the timeline*. Princeton Architectural Press.
-
 ---
 
 ## Articoli scientifici
