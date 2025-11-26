@@ -40,7 +40,7 @@ Un linguaggio che non si limita più a rappresentare l’evento, ma prova a comp
 
 <br><br>1. M. Gautier, Cartes en couleur des lieux sujets aux tremblements de terre, Paris, 1756. 
 <br>2. Atlante dei Terremoti, INGV, materiali sul sisma del 1783. 
-<br>3. History of Early Isoseismal Maps, documento storico, p. XX. 
+<br>3. Varga, Peter. (2008). History of early isoseismal maps. Acta Geodaetica Et Geophysica Hungarica - ACTA GEOD GEOPHYS HUNG. 43. 285-307. 10.1556/AGeod.43.2008.2-3.15.
 <br>4. D. Rosenberg, A. Grafton, Cartographies of Time, Princeton Architectural Press, 2010. 
 <br>5. R. Mallet, Great Neapolitan Earthquake of 1857, London, 1862. 
 
