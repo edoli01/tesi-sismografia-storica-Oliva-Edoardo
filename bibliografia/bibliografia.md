@@ -2,7 +2,7 @@
 
 **Coen, D. R.** (2013). *The earthquake observers: Disaster science from Lisbon to Richter*. University of Chicago Press.
 
-**Ferrari, C.** (a cura di). (2014). *Atlante dei terremoti*. Roma: Istituto Nazionale di Geofisica e Vulcanologia (INGV).  
+**Guidoboni, E.** (1994) *Catalogue of ancient earthquakes in the Mediterranean area up to the 10th century.*
 
 **Grafton, A., & Rosenberg, D.** (2010). *Cartographies of Time: A History of the Timeline*. Princeton Architectural Press.  
 
