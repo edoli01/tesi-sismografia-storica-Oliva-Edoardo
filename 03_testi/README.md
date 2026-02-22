@@ -1,4 +1,5 @@
-***Estetiche del Terraemotus: soggettività, archivi e rappresentazione***
+***Fragmenta***<br>
+*Un’indagine sul modo frammentario con cui misuriamo e ricordiamo il terremoto.*
 <br>
 <br>
 **Abstract**<br>
